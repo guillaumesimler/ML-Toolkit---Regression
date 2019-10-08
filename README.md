@@ -36,6 +36,9 @@ helpful.
 
 The config file (.yml) is attached to the repo.
 
+## Generic approach
+
+Contrary to the usual data _scientist_ approach, the module are imported on top of the file and not in the specific cells.
 
 ## License
 
